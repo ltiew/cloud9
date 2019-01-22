@@ -16,6 +16,10 @@ Quick Start
     3) git checkout -b dev # this with switch to dev branch
 
 
+Note:
+    F3 Python SDK 8.0 is installed under ~environment/cloud9 virtual environment.
+    Sample toy valuation example can be fond in ~environment/cloud9/Python/valuation.py
+    
 WARNING !!!
 
     Please do not push any private or sensitive information into this public repository.
